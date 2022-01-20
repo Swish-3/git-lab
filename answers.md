@@ -49,4 +49,36 @@ Untracked files:
 
         answers.md
 
-Answer 6:
+Answer 6:On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   README.md
+        new file:   answers.md
+
+Answer 7:On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   README.md
+        new file:   answers.md
+
+Answers 8:commit 86651195d141691bf5b86d7a8cbb9a99e91ee32b (HEAD -> master)
+Author: Jack Swisher <js703721@ohio.edu>
+Date:   Wed Jan 19 18:42:00 2022 -0500
+
+    Initial commit
+Answer 9:On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+answer 10: no
+answer 11: the comman is rejected
+answer 12: yes
